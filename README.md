@@ -1,5 +1,6 @@
 # LGMVIP-DataScience-Task-2
 # Prediction-Using-Decision-Tree-Algorithm
-#Created the Decision Tree classifier and visualized it graphically. 
-#The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly.  
-DataSet:- https://bit.ly/3kXTdox
+# DataSet:- https://bit.ly/3kXTdox
+
+Created the Decision Tree classifier and visualized it graphically. 
+The purpose is if we feed any new data to this classifier, it would be able to  predict the right class accordingly.  
